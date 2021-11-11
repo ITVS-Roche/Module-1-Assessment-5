@@ -1,0 +1,25 @@
+.gallery img{
+    width:100%;
+}
+
+#menu{
+	width: 100%;
+	height: 40%;
+	background-color: black;
+	padding-top: 12px;
+}
+
+#menu a{
+	color: white;
+	font-family: brush script MT ;
+	font-size :35px;
+	text-decoration:none;
+	font-weight:800;
+	
+	padding-left: 30px;
+	paddding-right: 30px;
+}
+
+#menu a:hover{
+	color: red;
+}
